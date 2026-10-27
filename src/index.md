@@ -1,4 +1,0 @@
-
-# OE LoRaWan Cybersecurity Research
-
-
